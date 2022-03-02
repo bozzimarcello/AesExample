@@ -8,6 +8,8 @@ namespace AesExample
     {
         public static void Main()
         {
+            Console.WriteLine("AES Example");
+
             string original = "Here is some data to encrypt!";
 
             // Create a new instance of the Aes
